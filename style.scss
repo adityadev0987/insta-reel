@@ -95,7 +95,7 @@ main {
 
 
         .profile {
-            height: 20%;
+            height: auto;
             position: absolute;
             bottom: 0;
             width: 100%;
@@ -144,8 +144,8 @@ main {
         }
 
         .side {
-            height: 40%;
-            width: 20%;
+            height: auto%;
+            width: auto;
             // border:2px solid red;
             position: absolute;
             color: white;

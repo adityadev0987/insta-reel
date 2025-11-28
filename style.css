@@ -78,7 +78,7 @@ main .reel-main .mute {
   top: 0;
 }
 main .reel-main .profile {
-  height: 20%;
+  height: auto;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -120,8 +120,8 @@ main .reel-main .profile .left .button {
   font-size: 1.3rem;
 }
 main .reel-main .side {
-  height: 40%;
-  width: 20%;
+  height: auto %;
+  width: auto;
   position: absolute;
   color: white;
   left: 83%;
