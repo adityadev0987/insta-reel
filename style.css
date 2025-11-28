@@ -120,7 +120,7 @@ main .reel-main .profile .left .button {
   font-size: 1.3rem;
 }
 main .reel-main .side {
-  height: auto %;
+  height: auto;
   width: auto;
   position: absolute;
   color: white;
